@@ -1,6 +1,6 @@
 {
 	"countrys": [
-		'id_0':{
+		"id_0":{
 			"name": "country_one",
 			"value": "country_one",
 			"regions": [
@@ -18,7 +18,7 @@
 				}
 			]
 		},
-		'id_2':{
+		"id_2":{
 			"name": "country_two",
 			"value": "country_two",
 			"regions": [
