@@ -1,5 +1,5 @@
 {
-	"countrys": [
+	"countrys": {
 		"id_0":{
 			"name": "country_one",
 			"value": "country_one",
@@ -36,5 +36,5 @@
 				}
 			]
 		}
-	]
+	}
 }
