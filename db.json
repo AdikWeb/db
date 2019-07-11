@@ -1,40 +1,51 @@
 {
 	"countrys": [
 		{
+			"id":"0",
 			"name": "country_one",
 			"value": "country_one",
-			"regions": [
+		},
+		{
+			"id":"1",
+			"name": "country_two",
+			"value": "country_two",
+		}
+	],
+	
+	"regions": {
+		"0":[
 				{
+					"id":"0",
 					"name": "country_one_region_one",
 					"text": "country_one_region_one"
 				},
 				{
+					"id":"1",
 					"name": "country_one_region_two",
 					"text": "country_one_region_two"
 				},
 				{
+					"id":"2",
 					"name": "country_one_region_three",
 					"text": "country_one_region_three"
 				}
-			]
-		},
-		{
-			"name": "country_two",
-			"value": "country_two",
-			"regions": [
+		],
+		"1":[
 				{
+					"id":"0",
 					"name": "country_two_region_one",
 					"text": "country_two_region_one"
 				},
 				{
+					"id":"1",
 					"name": "country_two_region_two",
 					"text": "country_two_region_two"
 				},
 				{
+					"id":"2",
 					"name": "country_two_region_three",
 					"text": "country_two_region_three"
 				}
-			]
-		}
-	]
+		]
+	}
 }
