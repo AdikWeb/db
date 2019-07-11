@@ -1,22 +1,11 @@
 {
-	"countrys": [
-		{
-			"name": "country_one",
-			"value": "country_one",
-			"regions": [
-				{
-					"name": "country_one_region_one",
-					"text": "country_one_region_one"
-				},
-				{
-					"name": "country_one_region_two",
-					"text": "country_one_region_two"
-				},
-				{
-					"name": "country_one_region_three",
-					"text": "country_one_region_three"
-				}
-			]
-		}
-	]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
