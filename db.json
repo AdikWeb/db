@@ -1,6 +1,6 @@
 {
 	"countrys": [
-			{
+		{
 			"name": "country_one",
 			"value": "country_one",
 			"regions": [
@@ -16,7 +16,7 @@
 					"name": "country_one_region_three",
 					"text": "country_one_region_three"
 				}
-		]
+			]
 		},
 		{
 			"name": "country_two",
