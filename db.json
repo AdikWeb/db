@@ -1,7 +1,7 @@
 {
 	"countrys": [
-		{ "id": "0", "name": "country_one", "value": "country_one" },
-		{ "id": "1", "name": "country_two", "value": "country_two" }
+		{ "id": "0", "text": "country_one", "value": "country_one" },
+		{ "id": "1", "text": "country_two", "value": "country_two" }
 	],
 	"regions": {
 		"0": [
