@@ -1,5 +1,5 @@
 {
-	users:[
-		{id:0, name: 'Adilhan', img:'https://live.staticflickr.com/5346/9382918464_dc84d99825.jpg'}
+	"users":[
+		{"id":0, "name": "Adilhan", "img":"https://live.staticflickr.com/5346/9382918464_dc84d99825.jpg"}
 	]
 }
